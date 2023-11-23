@@ -22,9 +22,9 @@ The project uses C and incorporates various libraries alongside Windows-specific
 ## Dependencies and Installation
 
 ### Dependencies
-1. **DaveGamble/cJSON** for JSON parsing - [Download here](https://github.com/DaveGamble/cJSON)
+1. **cJSON** for JSON parsing - [Download here](https://github.com/DaveGamble/cJSON)
 2. **OpenSSL** for AES encryption - Typically included in most C development environments. If not, [download here](https://www.openssl.org/source/)
-3. **SQLite** for interacting with Chrome's SQLite databases - [Download here](https://github.com/SRombauts/SQLiteCpp)
+3. **SQLite** for interacting with Chrome's SQLite databases - [Download here](https://github.com/sqlite/sqlite)
 
 ### Installation
 Clone the repository:
