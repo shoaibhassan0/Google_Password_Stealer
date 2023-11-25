@@ -2,6 +2,8 @@
 
 ## Overview
 This project is a Pure C application designed to decrypt saved passwords from Google Chrome's 'Login Data' file, utilizing the encrypted key stored in Chrome's 'Local State' file. And also save them to a separate file.
+### Note
+This program is for educational purpose only. Do not use it illegal or unethical Otherwise you will be responsible.
 
 ### Objectives
 - Extract the encrypted key from the 'Local State' file.
