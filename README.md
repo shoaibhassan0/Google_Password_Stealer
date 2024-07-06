@@ -32,3 +32,14 @@ The project uses C and incorporates various libraries alongside Windows-specific
 Clone the repository:
 git clone [repository URL]
 cd [repository directory]
+
+# Build Instructions
+
+To build the project, run the following commands in your command prompt:
+
+```batch
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
