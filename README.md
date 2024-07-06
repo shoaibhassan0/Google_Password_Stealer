@@ -20,6 +20,8 @@ The project uses C and incorporates various libraries alongside Windows-specific
 
 ## Current Status
 🚧 Under development.
+1. **Chrome Passwords** it can extract chrome passwords.
+i will add other browser password extraction and cookies extraction also in future.
 
 ## Dependencies and Installation
 
