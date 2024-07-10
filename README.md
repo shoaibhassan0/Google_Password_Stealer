@@ -16,7 +16,7 @@ The project uses C and incorporates various libraries alongside Windows-specific
 ### Key Features
 - Extraction and Base64 decoding of the encrypted key.
 - Decryption of the key using DPAPI.
-- #Now it is updated and now can get chrome bookmarks,cookies, saved credit cards, history and saved passwords also.#
+- # Now it is updated and now can get chrome bookmarks,cookies, saved credit cards, history and saved passwords also. #
 - Decoding and decrypting of saved passwords in Chrome.
 
 ## Current Status
