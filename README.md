@@ -1,7 +1,7 @@
 # Google_Password_Stealer
 
 ## Overview
-This project is a Pure C application designed to decrypt saved passwords from Google Chrome's 'Login Data' file, utilizing the encrypted key stored in Chrome's 'Local State' file. And also save them to a separate file.
+This project is a Pure C application designed to decrypt saved passwords from Google Chrome's 'Login Data' file, utilizing the encrypted key stored in Chrome's 'Local State' file. And also save them to a separate file also get saved bookmarks, cookies, history and saved credit cards.
 ### Note
 This program is for educational purpose only. Do not use it illegal or unethical Otherwise you will be responsible.
 
